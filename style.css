@@ -6,6 +6,19 @@
 .summary {
     color: teal;
     padding: 30px;
-    font-style: bold;
 } 
 
+.horizontal {
+    margin: 20px;
+    margin-top: -5px;
+} 
+
+.summarys {
+    color: teal;
+    padding-top: 50px;
+}
+
+.opener {
+    margin: 30px;
+    margin-bottom: -20px;
+}
