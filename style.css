@@ -27,3 +27,8 @@
     width: 175px;
     height: 175px;
 }
+
+.tablehead {
+    background-color: teal;
+    text-align: center;
+}
