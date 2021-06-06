@@ -45,17 +45,17 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 ### Screenshots of my landing page
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains screenshots of each page that must be built, at varying screen widths. 
 
 #### Landing page
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![Landing page large screen](Visualizations/landing_large.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](Visualizations/landing_small.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
