@@ -1,5 +1,8 @@
+p {
+    justify-content: center;
+}
+
 .navbar {
-    background-color: teal;
     font-size: large;
 }
 
@@ -32,3 +35,33 @@
     background-color: teal;
     text-align: center;
 }
+
+.lattitle {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    background-color: teal;
+    padding: 10px;
+}
+.lattitle:hover {
+    color: white;
+}
+
+.notshown {
+    margin-top: 30px;
+    margin-bottom: -20px;
+}
+
+@media (max-width: 991.98px) {
+    .navbar {
+        background-color: teal;
+    }
+   }
+
+@media (min-width: 991.98px) {
+    .notshown {
+        display: none;
+      }
+    }
+
