@@ -47,7 +47,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
 
-#### <a id="landing-page"></a>Landing page
+#### Landing page
 
 Large screen:
 
