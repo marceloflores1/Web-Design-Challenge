@@ -58,44 +58,64 @@ Small screen:
 ![Landing page small screen](Visualizations/landing_small.png)
 ￼
 
-#### <a id="comparisons-page"></a>Comparisons page
+#### Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](Visualizations/comparison_large.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](Visualizations/comparison_small.png)
 
-#### <a id="data-page"></a>Data page
+#### Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![data page large screen](Visualizations/data_large.png)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data page small screen](Visualizations/data_small.png)
 
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
+#### Max Temperature page
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![visualize page large screen](Visualizations/temperature_large.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![visualize page small screen](Visualizations/temperature_small.png)
 
-#### <a id="navigation-menu"></a>Navigation menu
+#### Cloudiness page
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+
+![visualize page large screen](Visualizations/cloudiness_large.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+
+![visualize page small screen](Visualizations/cloudiness_small.png)
+
+#### Humidity page
+
+Large screen:
+
+![visualize page large screen](Visualizations/humidity_large.png)
+
+Small screen:
+
+![visualize page small screen](Visualizations/humidity_small.png)
+
+#### Wind Speed page
+
+Large screen:
+
+![visualize page large screen](Visualizations/windspeed_large.png)
+
+Small screen:
+
+![visualize page small screen](Visualizations/windspeed_small.png)
 
