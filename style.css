@@ -1,5 +1,10 @@
+body {
+    background-color: rgb(219, 247, 255);
+}
+
 .navbar {
     font-size: large;
+    background-color: white;
 }
 
 .summary {
@@ -47,6 +52,14 @@
 .notshown {
     margin-top: 30px;
     margin-bottom: -20px;
+}
+
+.mycont {
+    background-color: white !important;
+}
+
+.compcont {
+    margin-left: 20px;
 }
 
 @media (max-width: 991.98px) {
